@@ -1,0 +1,21 @@
+*{
+  font-family: sans-serif;  
+  margin: none;
+ }
+ 
+#form{
+    text-align: center;
+    margin-top: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding:30px;
+    background-color: purple !important; 
+    border-radius: 30px;
+    font-weight: bold;
+    color:violet;
+}
+
+html{
+    background: rgb(32,0,36);
+    background: radial-gradient(circle, rgba(32,0,36,1) 0%, rgba(84,9,121,1) 30%, rgba(139,16,149,1) 100%);
+}
